@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be4ba37f.css",
+    "main.js": "/static/js/main.b81c0f7f.js",
+    "static/media/gambling.avif": "/static/media/gambling.5bea15a5d487d02bbccd.avif",
+    "index.html": "/index.html",
+    "main.be4ba37f.css.map": "/static/css/main.be4ba37f.css.map",
+    "main.b81c0f7f.js.map": "/static/js/main.b81c0f7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4ba37f.css",
+    "static/js/main.b81c0f7f.js"
+  ]
+}
