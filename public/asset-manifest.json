@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.be4ba37f.css",
-    "main.js": "/static/js/main.b81c0f7f.js",
+    "main.css": "/static/css/main.8cb7af42.css",
+    "main.js": "/static/js/main.330e7934.js",
+    "static/media/cartoon.png": "/static/media/cartoon.38cdf73066be5dc84f4f.png",
+    "static/media/kid.png": "/static/media/kid.79a7f6d237d628851d77.png",
+    "static/media/Page2background.svg": "/static/media/Page2background.e759ec54f595e23dff27.svg",
+    "static/media/page3coding.svg": "/static/media/page3coding.7eeac1976747812cd878742dca87aeea.svg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/page2coins.svg": "/static/media/page2coins.ae2dd6ce1405b60b9909b1950d1c0a34.svg",
+    "static/media/coin.svg": "/static/media/coin.ffb29f72b46147f7480164e634ee0ce0.svg",
+    "static/media/page2rocket.svg": "/static/media/page2rocket.e811752d6d76d28ee2e61464ab006752.svg",
     "static/media/gambling.avif": "/static/media/gambling.5bea15a5d487d02bbccd.avif",
+    "static/media/fullDotted.svg": "/static/media/fullDotted.e8bb6046c327d712de1f3320aceb8117.svg",
+    "static/media/page3dotted.svg": "/static/media/page3dotted.08c2fefbcf368d4a6d1a312722ca490f.svg",
+    "static/media/dotted.svg": "/static/media/dotted.14e546f9c8070b8f9fba838e21f1f68c.svg",
+    "static/media/page3air.svg": "/static/media/page3air.f00f3c373ea571ce42d5c6eeac585c63.svg",
     "index.html": "/index.html",
-    "main.be4ba37f.css.map": "/static/css/main.be4ba37f.css.map",
-    "main.b81c0f7f.js.map": "/static/js/main.b81c0f7f.js.map"
+    "static/media/arrowRight.svg": "/static/media/arrowRight.24cefc98a87e5f4a806880abd2acc59e.svg",
+    "main.8cb7af42.css.map": "/static/css/main.8cb7af42.css.map",
+    "main.330e7934.js.map": "/static/js/main.330e7934.js.map"
   },
   "entrypoints": [
-    "static/css/main.be4ba37f.css",
-    "static/js/main.b81c0f7f.js"
+    "static/css/main.8cb7af42.css",
+    "static/js/main.330e7934.js"
   ]
 }
